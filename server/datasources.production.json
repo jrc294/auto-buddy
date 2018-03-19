@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds119489.mlab.com",
+    "port": 19489,
+    "url": "mongodb://heroku_chh1szq9:jqt8r7tcjlns4qqh93i3tqpeli@ds119489.mlab.com:19489/heroku_chh1szq9",
+    "database": "heroku_chh1szq9",
+    "password": "jqt8r7tcjlns4qqh93i3tqpeli",
+    "name": "heroku_chh1szq9",
+    "user": "heroku_chh1szq9",
+    "connector": "mongodb"
+  }
+}
